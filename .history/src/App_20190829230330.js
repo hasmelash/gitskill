@@ -9,7 +9,7 @@ import 'bootstrap/dist/js/bootstrap.bundle.min';
   render(){
       return (
           <div>
-            <Navbar fixed = "top"/>
+            <Navbar />
             <Notes />
           </div>
       );
